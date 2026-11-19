@@ -157,7 +157,7 @@ a {
 
 .tab li a:hover {
     background-color: #306ae7;
-    transition: all 0.5 ease;
+    transition: all 0.5s ease;
 }
 
 
